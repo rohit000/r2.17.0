@@ -1,3 +1,4 @@
 this is git bash
-iwant to commit data into git hub
 
+iwant to commit data into git hub
+iwant use maven
