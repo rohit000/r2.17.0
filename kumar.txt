@@ -1,4 +1,9 @@
 this is git bash
+<<<<<<< HEAD
+=======
+iwant to commit data into git hub
+present iam @repo2
+>>>>>>> 618b0eaaf5a6e75d902c18032930ad08355ee23c
 
 iwant to commit data into git hub
 iwant use maven
