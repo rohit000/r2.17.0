@@ -3,3 +3,8 @@ a-apple
 b-ball
 c-cat
 d-dog
+e-eagle
+f-fox
+g-goat
+h-horse
+i-ice cream
