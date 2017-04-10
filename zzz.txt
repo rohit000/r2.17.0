@@ -8,3 +8,7 @@ f-fox
 g-goat
 h-horse
 i-ice cream
+j-jug
+k-kite
+l-lemon
+m-mango
